@@ -4,10 +4,11 @@
   "package": "com.kingfisher.anvilformat.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "AnvilScreenHandlerMixin",
+    "AnvilScreenHandlerMixin"
+  ],
+  "client": [
     "AnvilScreenMixin"
   ],
-  "client": [],
   "injectors": {
     "defaultRequire": 1
   }

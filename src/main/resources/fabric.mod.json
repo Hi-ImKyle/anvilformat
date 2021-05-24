@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "anvilformat",
-  "version": "1.0",
+  "version": "1.0.1",
   "name": "Anvil Format",
   "description": "Gives Anvils Chat Format Capabilities",
   "authors": [
@@ -9,7 +9,7 @@
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Hi-ImKyle/anvilformat"
   },
   "license": "GNU GPLv3",
   "icon": "assets/anvilformat/icon.png",
